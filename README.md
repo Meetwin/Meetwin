@@ -166,7 +166,7 @@ graph LR
     style F fill:#eb4d4b
 ```
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - [ ] Master Data Structures & Algorithms
 - [ ] Complete 100 LeetCode problems
 - [ ] Build 3 full-stack projects
