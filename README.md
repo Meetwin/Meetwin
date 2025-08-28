@@ -51,17 +51,17 @@
 
 ## 🚀 Featured Projects
 
-### [Data Structures Implementation](https://github.com/YourUsername/data-structures)
+### [Data Structures Implementation](https://github.com/Meetwin/data-structures)
 Implementation of fundamental data structures in Python/Java for learning purposes.
 - 💻 Technologies: Python, Java
 - 📚 Focus: Arrays, Linked Lists, Stacks, Queues, Trees
 
-### [Simple Web Portfolio](https://github.com/YourUsername/portfolio)
+### [Simple Web Portfolio](https://github.com/Meetwin/portfolio)
 Personal portfolio website showcasing my learning journey.
 - 🔗 [Live Demo](https://your-demo-link.com)
 - 💻 Technologies: HTML, CSS, JavaScript
 
-### [Algorithm Practice](https://github.com/YourUsername/algorithms)
+### [Algorithm Practice](https://github.com/Meetwin/algorithms)
 Collection of algorithm implementations and problem-solving exercises.
 - 💻 Technologies: Python, C++
 - 📚 Focus: Sorting, Searching, Problem Solving
