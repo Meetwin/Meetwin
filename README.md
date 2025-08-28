@@ -39,15 +39,15 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Meetwin&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetwin&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Meetwin&theme=radical)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Meetwin&theme=radical)
 
 ## 🚀 Featured Projects
 
