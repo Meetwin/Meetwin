@@ -205,12 +205,7 @@ graph LR
 
 </div>
 
-<div align="center">
 
-### ⚡ Fun Fact
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **I believe every bug is just an undocumented feature!**
-
-</div>
 
 ---
 
