@@ -30,7 +30,7 @@ const zephaniah = {
         databases: ["MySQL"],
         currentlyLearning: ["Full-Stack Development", "Algorithm Optimization"]
     },
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+    funFact: "I will solve a riddle no matter how long it takes me"
 };
 ```
 
