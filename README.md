@@ -89,45 +89,6 @@ const zephaniah = {
 
 <div align="center">
 
-### 🗂️ Data Structures & Algorithms
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meetwin&repo=data-structures&theme=algolia)](https://github.com/Meetwin/data-structures)
-
-**Tech Stack:** `Python` `Java` `C++`
-
-Implementation of fundamental data structures and algorithms for academic learning and interview preparation.
-
-</td>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meetwin&repo=portfolio&theme=algolia)](https://github.com/Meetwin/portfolio)
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `React`
-
-A responsive portfolio website showcasing my projects, skills, and learning journey as a CS student.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧮 Algorithm Practice Hub
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meetwin&repo=algorithms&theme=algolia)](https://github.com/Meetwin/algorithms)
-
-**Tech Stack:** `Python` `Java` `Problem Solving`
-
-Collection of coding challenges, competitive programming solutions, and algorithm implementations.
-
-</td>
-<td width="50%">
-
-### 📚 CS Study Resources
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meetwin&repo=cs-resources&theme=algolia)](https://github.com/Meetwin/cs-resources)
-
-**Tech Stack:** `Markdown` `Documentation`
-
-Curated collection of computer science study materials, notes, and resources for fellow students.
-
 </td>
 </tr>
 </table>
