@@ -89,15 +89,6 @@ const zephaniah = {
 
 <div align="center">
 
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-
 ## 📚 Current Learning Journey
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
