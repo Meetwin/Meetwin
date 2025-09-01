@@ -89,15 +89,6 @@ const zephaniah = {
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
 ### 🗂️ Data Structures & Algorithms
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meetwin&repo=data-structures&theme=algolia)](https://github.com/Meetwin/data-structures)
 
