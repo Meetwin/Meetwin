@@ -2,8 +2,6 @@
   
 ## Zephaniah
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Level+200+Computer+Science+Student;Passionate+Software+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+Something+New!)](https://git.io/typing-svg)
-
 <img src="https://komarev.com/ghpvc/?username=Meetwin&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
@@ -19,7 +17,6 @@
 ```javascript
 const zephaniah = {
     pronouns: "He/Him",
-    currentStatus: "Level 200 Computer Science Student",
     location: "📍 Ghana",
     currentFocus: ["Data Structures & Algorithms", "Object-Oriented Programming", "Web Development"],
     askMeAbout: ["Programming", "Computer Science", "Problem Solving", "Learning Journey"],
